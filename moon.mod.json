@@ -7,8 +7,5 @@
   "keywords": ["math", "geometry", "combinatorics"],
   "description": "数学计算工具库，包含几何算法与组合数学函数",
   "homepage": "https://github.com/0Ayachi0/math",
-  "deps": {
-    "stdlib": "0.8.0"
-  },
   "source": "src"
 }
